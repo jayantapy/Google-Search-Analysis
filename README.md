@@ -4,7 +4,7 @@
 
 To access the data, we have to use a Python library called **_pytrends_**. To install it, run **_pip install pytrends_**. <br>
 
-**The trend can be seen as below:** <br>
+<h4> The trend can be seen as below: </h4> 
 
 ![](ML_trend.png)
 
