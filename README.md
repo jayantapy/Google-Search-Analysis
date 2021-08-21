@@ -1,4 +1,4 @@
-<h3> Google Search is a great use case for analyzing data based on search queriE.</h3><br>
+<h3> Google Search is a great use case for analyzing data based on search querie.</h3><br>
 * In this project, I have tried to find the top 10 countries which search the word "Machine Learning".<br>
 * I have also tried to plot the trend of seaches of this particular word in recent years. <br> <br>
 
